@@ -13,7 +13,7 @@
     'description': "Invoice currency by customer",
     'depends': ['bhs_invoice_report', 'bhs_invoice_partner', 'bhs_invoice_email', 'bhs_customer_sequence'],
     'data': [],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
