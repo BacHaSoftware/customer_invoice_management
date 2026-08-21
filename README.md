@@ -8,7 +8,7 @@
     <img src="/bhs_customer_invoice_management/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Customer Invoice Management</h3>
+  <h3 align="center">Invoice Suite</h3>
 
   <p align="center">
     A product of Bac Ha Software that provides a comprehensive solution to invoices, customers and related problems.
